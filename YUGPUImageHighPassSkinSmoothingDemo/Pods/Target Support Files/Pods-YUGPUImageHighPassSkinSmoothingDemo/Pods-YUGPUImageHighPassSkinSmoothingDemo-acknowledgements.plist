@@ -27,7 +27,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 			<key>License</key>
 			<string>BSD</string>
 			<key>Title</key>
-			<string>GPUImage</string>
+			<string>GPUImage-StraaS</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>
 		</dict>
@@ -58,7 +58,7 @@ SOFTWARE.
 			<key>License</key>
 			<string>MIT</string>
 			<key>Title</key>
-			<string>YUGPUImageHighPassSkinSmoothing</string>
+			<string>YUGPUImageHighPassSkinSmoothing-Straas</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>
 		</dict>
