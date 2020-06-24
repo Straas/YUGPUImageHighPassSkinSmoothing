@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import YUGPUImageHighPassSkinSmoothing
+import YUGPUImageHighPassSkinSmoothing_Straas
 
 class ViewController: UIViewController {
 
