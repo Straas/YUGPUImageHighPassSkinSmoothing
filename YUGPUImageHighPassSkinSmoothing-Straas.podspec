@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'YUGPUImageHighPassSkinSmoothing-Straas'
-  s.version      = '1.5'
+  s.version      = '1.6'
   s.author       = { 'YuAo' => 'me@imyuao.com' }
   s.homepage     = 'https://github.com/Straas/YUGPUImageHighPassSkinSmoothing'
   s.summary      = 'An implementation of High Pass Skin Smoothing using GPUImage'
